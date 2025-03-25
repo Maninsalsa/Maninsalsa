@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Maninsalsa
-- 👀 I’m interested in quantum computing!
-- 🌱 I work on indie games and end to end django react api integration. 
-- 💞️ let's make stuff!
-- 📫 How to reach me https://www.linkedin.com/in/robert-manansala/
+- 👀 I’m interested in ML, software architecture, and 
+- 🌱 I've been learning transformer/model design, indie game develop, and building react projects.
+- 💞️ Let's make stuff
+- 📫 https://www.linkedin.com/in/robert-manansala/
 - 😄 Pronouns: he/him
-- ⚡ fun fact: I cook my dogs food
+- ⚡ fun fact: I have a tatoo of pigeon man from hey arnold.
 
 <!---
 Maninsalsa/Maninsalsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
